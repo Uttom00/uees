@@ -1,0 +1,272 @@
+[
+  {
+    "Codigo": 1,
+    "Apellidos": "AGUILAR CRESPÍN",
+    "Nombres": "ANDREA ESTEFANIA",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 2,
+    "Apellidos": "ALAS DE PAZ",
+    "Nombres": "CESAR ALEXIS",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 3,
+    "Apellidos": "CABRERA ZALDAÑA",
+    "Nombres": "LUIS ALONSO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 4,
+    "Apellidos": "CANALES RUBIO",
+    "Nombres": "ABNER MANUEL",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 5,
+    "Apellidos": "CAÑAS MENDOZA",
+    "Nombres": "IRVING HERIBERTO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 6,
+    "Apellidos": "CASTELLANOS TAMAYO",
+    "Nombres": "WALTER ANTONIO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 7,
+    "Apellidos": "CEA CAMPOS",
+    "Nombres": "JOSE ROLANDO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 8,
+    "Apellidos": "DIAZ CALDERON",
+    "Nombres": "ALFREDO JOSUE",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 9,
+    "Apellidos": "FLORES HERNANDEZ",
+    "Nombres": "CRISTIAN ANTONIO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 10,
+    "Apellidos": "GANZ ARGUETA",
+    "Nombres": "ATHALIA",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 11,
+    "Apellidos": "GARCIA RODRIGUEZ",
+    "Nombres": "KELVIN ALFREDO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 12,
+    "Apellidos": "GONZALEZ SERRANO",
+    "Nombres": "ANA IRIS",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 13,
+    "Apellidos": "GUILLEN PORTILLO",
+    "Nombres": "OMAR ALFREDO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 14,
+    "Apellidos": "GUTIERREZ VARELA",
+    "Nombres": "JOSUE NAHUN",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 15,
+    "Apellidos": "GUZMAN TOBAR",
+    "Nombres": "MIGUEL ANTONIO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 16,
+    "Apellidos": "MARTINEZ CARPIO",
+    "Nombres": "JAIME RENE",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 17,
+    "Apellidos": "MARTINEZ MENENDEZ",
+    "Nombres": "EDUARDO ANTONIO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 18,
+    "Apellidos": "MARTINEZ PINEDA",
+    "Nombres": "MARIO ERNESTO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 19,
+    "Apellidos": "MEJIA REYES",
+    "Nombres": "EDUARDO ANTONIO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 20,
+    "Apellidos": "MEJIA RIVAS",
+    "Nombres": "BRYAN STEVEN",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 21,
+    "Apellidos": "MENDEZ SANDOVAL",
+    "Nombres": "WENDY ESTEFANY",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 22,
+    "Apellidos": "MENDOZA REYES",
+    "Nombres": "NELSON FRANCISCO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 23,
+    "Apellidos": "MERLOS ECHEVERRIA",
+    "Nombres": "ELMER RENE",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 24,
+    "Apellidos": "MOLINA CAÑAS",
+    "Nombres": "AMADEO ERNESTO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 25,
+    "Apellidos": "MONTES MEJIA",
+    "Nombres": "IRENE ALEJANDRA",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 26,
+    "Apellidos": "MOZ ESPERANZA",
+    "Nombres": "CLAUDIA GABRIELA",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 27,
+    "Apellidos": "MURCIA HERRERA",
+    "Nombres": "ALEXANDER ADONAY",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 28,
+    "Apellidos": "NOLASCO ALFARO",
+    "Nombres": "MANUEL ALFREDO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 29,
+    "Apellidos": "PANAMEÑO MARTINEZ",
+    "Nombres": "MARIO ANTONIO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 30,
+    "Apellidos": "PEREZ SEVILLA",
+    "Nombres": "ABIGAIL GUADALUPE",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 31,
+    "Apellidos": "RAMIREZ ANDRADE",
+    "Nombres": "KEVIN JOSAEL",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 32,
+    "Apellidos": "RIVAS FLORES",
+    "Nombres": "CLAUDIA BEATRIZ",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 33,
+    "Apellidos": "RIVAS LANDAVERDE",
+    "Nombres": "TANIA CAROLINA",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 34,
+    "Apellidos": "RODRIGUEZ FLAMENCO",
+    "Nombres": "JACQUELINE MICHELLE",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 35,
+    "Apellidos": "RODRIGUEZ RAMIREZ",
+    "Nombres": "EDGAR RICARDO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 36,
+    "Apellidos": "SANCHEZ CASTELLANOS",
+    "Nombres": "IRVIN EDUARDO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 37,
+    "Apellidos": "SANCHEZ VALIENTE",
+    "Nombres": "GERBER JACOBO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 38,
+    "Apellidos": "SERRANO HERNANDEZ",
+    "Nombres": "JOSE DAVID",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 39,
+    "Apellidos": "SERRANO PERAZA",
+    "Nombres": "SOFIA STEPHANIE",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 40,
+    "Apellidos": "SOLANO RODRIGUEZ",
+    "Nombres": "ALEJANDRA MARIA",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 41,
+    "Apellidos": "SOSA MENDEZ",
+    "Nombres": "RAUL RAFAEL",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 42,
+    "Apellidos": "TOMASINO IRAHETA",
+    "Nombres": "JUAN ANTONIO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 43,
+    "Apellidos": "TORRES ALVARENGA",
+    "Nombres": "ROCIO CAROLINA",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 44,
+    "Apellidos": "TRIGUEROS GONZALEZ",
+    "Nombres": "ORESTES ALEJANDRO",
+    "Nota": 0.0
+  },
+  {
+    "Codigo": 45,
+    "Apellidos": "ZELAYA ULLOA",
+    "Nombres": "JORGE ALBERTO",
+    "Nota": 0.0
+  }
+]
